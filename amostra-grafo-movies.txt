@@ -1,0 +1,449 @@
+product/productId: B01LMNOPQR
+review/userId: A1B3C5D7E9F2
+review/profileName: GraceHollywood
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 1945678901
+review/summary: Classic Film Collection
+review/text: This DVD collection features timeless classics. From captivating dramas to laugh-out-loud comedies, it's a cinematic journey through the golden age of Hollywood.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: CinematicExplorer
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 1967890123
+review/summary: Movie Buff's Delight
+review/text: As a movie enthusiast, this Blu-ray set is a treasure trove. The picture quality is superb, and the bonus features provide fascinating insights into the making of these cinematic masterpieces.
+
+product/productId: B00LMNOPQR
+review/userId: A1C3E5G7I9K2
+review/profileName: FilmFanaticZoey
+review/helpfulness: 14/16
+review/score: 4.7
+review/time: 1990123456
+review/summary: Must-Have Movie Marathon
+review/text: This collection is a must-have for any movie marathon. Whether you're into action, romance, or suspense, the diverse selection ensures there's something for everyone.
+
+product/productId: B008XYZABC
+review/userId: A2R4S6D8F0G2
+review/profileName: MovieMagicLiam
+review/helpfulness: 11/13
+review/score: 3.9
+review/time: 2012345678
+review/summary: Documentary Discovery
+review/text: While the documentaries in this set are informative, the production quality varies. Some are cinematic gems, while others lack the visual appeal I was hoping for.
+
+product/productId: B014LMNOPQ
+review/userId: A1B3C5D7E9F2
+review/profileName: ScreenStoryGrace
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 2034567890
+review/summary: Indie Film Gem
+review/text: This indie film collection is a hidden gem. Each film tells a unique story, and the raw, authentic performances make them stand out from mainstream cinema.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: CinemaExplorerZoey
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2056789012
+review/summary: 4K Movie Marvels
+review/text: Watching these movies in 4K is a visual treat. The enhanced details and vibrant colors bring the cinematic experience to a whole new level. Movie night has never been this immersive!
+
+product/productId: B00LMNOPQR
+review/userId: A1C3E5G7I9K2
+review/profileName: FilmBuffMason
+review/helpfulness: 14/16
+review/score: 4.7
+review/time: 2078901234
+review/summary: Nostalgia-Inducing Classics
+review/text: This collection took me down memory lane with its selection of classic films. It's a nostalgic journey filled with timeless stories and unforgettable performances.
+
+product/productId: B008XYZABC
+review/userId: A2R4S6D8F0G2
+review/profileName: LiamFlicks
+review/helpfulness: 11/13
+review/score: 3.9
+review/time: 2101234567
+review/summary: Action Movie Marathon
+review/text: As a fan of action films, this set delivers on high-octane excitement. The stunts, special effects, and gripping plots make it a perfect weekend marathon choice.
+
+product/productId: B016LMNOPQ
+review/userId: A1B3C5D7E9F2
+review/profileName: SilverScreenSage
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 2123456789
+review/summary: Masterpiece Cinema Collection
+review/text: This collection is a true masterpiece. From classic dramas to avant-garde experiments, it showcases the diversity and artistry of cinema. A must-have for cinephiles.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: MovieExplorerZoey
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2145678901
+review/summary: Golden Age Hollywood Magic
+review/text: Dive into the magic of Hollywood's golden age with this collection. The glamour, the stars, and the timeless stories transport you to an era where cinema truly captivated the soul.
+
+product/productId: B019LMNOPQ
+review/userId: A1B3C5D7E9F2
+review/profileName: CinemaSavvyGrace
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 2167890123
+review/summary: Contemporary Indie Delights
+review/text: This collection of contemporary indie films is a breath of fresh air. Thought-provoking narratives and breakthrough performances make these films a standout in the indie scene.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: MovieMagicExplorer
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2190123456
+review/summary: Animated Classics Extravaganza
+review/text: Rediscover the joy of animated classics with this enchanting collection. From timeless fairy tales to heartwarming adventures, it's a celebration of animation at its finest.
+
+product/productId: B00LMNO456
+review/userId: A1C3E5G7I9K2
+review/profileName: CinematicMason
+review/helpfulness: 14/16
+review/score: 4.7
+review/time: 2212345678
+review/summary: Director's Cut Marvels
+review/text: Experience the brilliance of director's cuts with this compilation. The added scenes and insights into the filmmaker's vision elevate these movies to a whole new level.
+
+product/productId: B008XYZ678
+review/userId: A2R4S6D8F0G2
+review/profileName: FilmBuffLiam
+review/helpfulness: 11/13
+review/score: 3.9
+review/time: 2234567890
+review/summary: Mystery Movie Night Set
+review/text: This mystery movie set is perfect for suspense lovers. The twists and turns in each film keep you guessing until the very end. However, some films are more captivating than others.
+
+product/productId: B023LMNOPQ
+review/userId: A1B3C5D7E9F2
+review/profileName: FilmophileGrace
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 2256789012
+review/summary: Cult Classics Compilation
+review/text: Unearth the magic of cult classics with this compilation. These films have a unique charm and a dedicated fan base. A must-have for anyone seeking cinematic diversity.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: CinematicAdventurer
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2278901234
+review/summary: Time Travel Movie Marathon
+review/text: Embark on a time-travel adventure with this movie marathon. The creative narratives and mind-bending plots make for an engaging cinematic experience.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: CinematicAdventurer
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2278901234
+review/summary: Time Travel Movie Marathon
+review/text: Embark on a time-travel adventure with this movie marathon. The creative narratives and mind-bending plots make for an engaging cinematic experience.
+
+product/productId: B00LMNO456
+review/userId: A1C3E5G7I9K2
+review/profileName: FilmJourneyMason
+review/helpfulness: 14/16
+review/score: 4.7
+review/time: 2301234567
+review/summary: International Film Festival Set
+review/text: Transport yourself to different cultures with this international film festival set. The diverse stories and cinematography showcase the richness of global cinema.
+
+product/productId: B008XYZ678
+review/userId: A2R4S6D8F0G2
+review/profileName: MovieExplorerLiam
+review/helpfulness: 11/13
+review/score: 3.9
+review/time: 2323456789
+review/summary: Sci-Fi Extravaganza
+review/text: Dive into the future with this sci-fi extravaganza. The futuristic concepts and visual effects in these films make for a captivating movie night. However, some films are more scientifically plausible than others.
+
+product/productId: B027LMNOPQ
+review/userId: A1B3C5D7E9F2
+review/profileName: SilverScreenDreamer
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 2345678901
+review/summary: Animated Masterpieces Collection
+review/text: Immerse yourself in a world of animated wonders with this collection. From heartwarming tales to visually stunning adventures, these animated masterpieces are perfect for family movie nights.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: CinephileZoey
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2367890123
+review/summary: Noir Film Noir Set
+review/text: Indulge in the shadows and mysteries of film noir with this set. The black-and-white cinematography and intriguing narratives create a timeless cinematic experience.
+
+product/productId: B00LMNO456
+review/userId: A1C3E5G7I9K2
+review/profileName: FilmBuffMason
+review/helpfulness: 14/16
+review/score: 4.7
+review/time: 2390123456
+review/summary: Uncharted Filmmaker's Showcase
+review/text: Discover hidden gems from uncharted filmmakers with this showcase. The raw creativity and unique perspectives make this collection a standout in the film world.
+
+product/productId: B008XYZ678
+review/userId: A2R4S6D8F0G2
+review/profileName: LiamFilmExplorer
+review/helpfulness: 11/13
+review/score: 3.9
+review/time: 2412345678
+review/summary: Vintage Hollywood Glamour
+review/text: Immerse yourself in the glamour of vintage Hollywood with this curated collection. The timeless elegance and star power of these films are a testament to the golden age of cinema.
+
+product/productId: B031LMNOPQ
+review/userId: A1B3C5D7E9F2
+review/profileName: CinemaEnthusiastGrace
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 2434567890
+review/summary: Heartfelt Coming-of-Age Films
+review/text: This collection of coming-of-age films is a beautiful journey through the highs and lows of growing up. The relatable stories and genuine emotions make it a must-watch for all ages.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: FilmAdventureZoey
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2456789012
+review/summary: Cinematic Science Fiction Classics
+review/text: Explore the wonders of science fiction with this classic collection. The groundbreaking ideas and futuristic visions in these films have left an indelible mark on the genre.
+
+product/productId: B00LMNO456
+review/userId: A1C3E5G7I9K2
+review/profileName: MovieBuffMason
+review/helpfulness: 14/16
+review/score: 4.7
+review/time: 2478901234
+review/summary: Silent Film Era Rediscovery
+review/text: Take a step back in time with this silent film era collection. The artistry and storytelling through visuals alone are mesmerizing, offering a unique and delightful cinematic experience.
+
+product/productId: B008XYZ678
+review/userId: A2R4S6D8F0G2
+review/profileName: LiamFilmConnoisseur
+review/helpfulness: 11/13
+review/score: 3.9
+review/time: 2501234567
+review/summary: Epic Fantasy Movie Marathon
+review/text: Embark on an epic journey with this fantasy movie marathon. The mythical realms, magical creatures, and gripping plots make for a cinematic adventure that captivates from start to finish.
+
+product/productId: B035LMNOPQ
+review/userId: A1B3C5D7E9F2
+review/profileName: SilverScreenAficionado
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 2523456789
+review/summary: Intense Psychological Thrillers
+review/text: Brace yourself for a rollercoaster of emotions with this collection of intense psychological thrillers. The mind-bending plots and unexpected twists will leave you on the edge of your seat.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: FilmFiestaZoey
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2545678901
+review/summary: Whimsical Animation Extravaganza
+review/text: Immerse yourself in a world of whimsy with this animation extravaganza. The vibrant colors, imaginative stories, and lovable characters make it a joyous cinematic experience.
+
+product/productId: B00LMNO456
+review/userId: A1C3E5G7I9K2
+review/profileName: MasonCinemaExplorer
+review/helpfulness: 14/16
+review/score: 4.7
+review/time: 2567890123
+review/summary: Classic Musicals Revival
+review/text: Experience the magic of classic musicals with this revival collection. The toe-tapping tunes and captivating dance numbers transport you to a bygone era of Hollywood glamour.
+
+product/productId: B008XYZ678
+review/userId: A2R4S6D8F0G2
+review/profileName: LiamFilmJunkie
+review/helpfulness: 11/13
+review/score: 3.9
+review/time: 2590123456
+review/summary: Iconic Film Noir Mysteries
+review/text: Delve into the shadows with this collection of iconic film noir mysteries. The atmospheric cinematography and gripping narratives create a noir experience like no other.
+
+product/productId: B039LMNOPQ
+review/userId: A1B3C5D7E9F2
+review/profileName: CinemaExplorerGrace
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 2612345678
+review/summary: Indie Documentary Gems
+review/text: Explore the untold stories of the world with this collection of indie documentaries. The thought-provoking narratives and raw authenticity make it a compelling cinematic journey.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: FilmFanaticZoey
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2634567890
+review/summary: 80s Movie Nostalgia
+review/text: Take a trip down memory lane with this collection of 80s movie classics. The iconic fashion, memorable soundtracks, and timeless stories capture the essence of the era.
+
+product/productId: B00LMNO456
+review/userId: A1C3E5G7I9K2
+review/profileName: MasonCinematicJourney
+review/helpfulness: 14/16
+review/score: 4.7
+review/time: 2656789012
+review/summary: Cult Horror Movie Marathon
+review/text: Dive into the world of cult horror with this movie marathon. The chilling atmospheres and spine-tingling plots make it a perfect choice for a Halloween movie night.
+
+product/productId: B008XYZ678
+review/userId: A2R4S6D8F0G2
+review/profileName: LiamFilmBuff
+review/helpfulness: 11/13
+review/score: 3.9
+review/time: 2678901234
+review/summary: Classic Comedy Gold
+review/text: Laugh out loud with this collection of classic comedy films. The timeless humor and comedic genius of the actors guarantee a joyful movie-watching experience.
+
+product/productId: B043LMNOPQ
+review/userId: A1B3C5D7E9F2
+review/profileName: SilverScreenSpectator
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 2690123456
+review/summary: Classic Westerns Collection
+review/text: Saddle up for adventure with this collection of classic Westerns. The vast landscapes, dramatic showdowns, and iconic performances make it a must-have for fans of the genre.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: CinematicJourneyZoey
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2712345678
+review/summary: 90s Movie Rewind
+review/text: Relive the magic of the 90s with this rewind-worthy movie collection. The nostalgia-inducing plots and iconic performances transport you back to a defining era of cinema.
+
+product/productId: B00LMNO456
+review/userId: A1C3E5G7I9K2
+review/profileName: MasonCinematicAdventures
+review/helpfulness: 14/16
+review/score: 4.7
+review/time: 2734567890
+review/summary: Animated Sci-Fi Marvels
+review/text: Embark on a futuristic journey with this collection of animated sci-fi marvels. The imaginative worlds and futuristic concepts make it an entertaining and visually stunning experience.
+
+product/productId: B008XYZ678
+review/userId: A2R4S6D8F0G2
+review/profileName: LiamMovieConnoisseur
+review/helpfulness: 11/13
+review/score: 3.9
+review/time: 2756789012
+review/summary: Classic Film Noir Elegance
+review/text: Indulge in the elegance of classic film noir with this curated collection. The moody atmospheres, intriguing plots, and unforgettable characters make it a noir enthusiast's delight.
+
+product/productId: B047LMNOPQ
+review/userId: A1B3C5D7E9F2
+review/profileName: CinemaCriticGrace
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 2778901234
+review/summary: World Cinema Showcase
+review/text: Immerse yourself in the diversity of world cinema with this captivating showcase. From poignant dramas to heartwarming comedies, it's a celebration of global storytelling.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: FilmAdventurerZoey
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2801234567
+review/summary: Classic Romance Movie Night
+review/text: Set the mood with this collection of classic romance films. The timeless love stories and enchanting chemistry of the actors create a perfect movie night for romantics.
+
+product/productId: B00LMNO456
+review/userId: A1C3E5G7I9K2
+review/profileName: MasonFilmBuff
+review/helpfulness: 14/16
+review/score: 4.7
+review/time: 2823456789
+review/summary: Mystery Classics Rediscovered
+review/text: Rediscover the allure of mystery classics with this thoughtfully curated collection. The intricate plots and suspenseful storytelling make it a thrilling journey into the world of mystery cinema.
+
+product/productId: B008XYZ678
+review/userId: A2R4S6D8F0G2
+review/profileName: LiamCinephile
+review/helpfulness: 11/13
+review/score: 3.9
+review/time: 2845678901
+review/summary: Sci-Fi Animation Spectacular
+review/text: Immerse yourself in a world of wonder with this sci-fi animation spectacular. The imaginative visuals and futuristic storytelling make it a delightful treat for fans of both genres.
+
+product/productId: B051LMNOPQ
+review/userId: A1B3C5D7E9F2
+review/profileName: SilverScreenStoryteller
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 2867890123
+review/summary: Film Noir Classics Marathon
+review/text: Dive into the shadows with this marathon of film noir classics. The atmospheric cinematography and gripping narratives create a captivating journey into the world of crime and intrigue.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: CinematicWandererZoey
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2890123456
+review/summary: Musical Extravaganza Revival
+review/text: Relive the magic of musical extravaganzas with this revival collection. The toe-tapping tunes, dazzling dance sequences, and captivating performances make it a joyful celebration of the genre.
+
+product/productId: B00LMNO456
+review/userId: A1C3E5G7I9K2
+review/profileName: MasonFilmExplorer
+review/helpfulness: 14/16
+review/score: 4.7
+review/time: 2912345678
+review/summary: Historical Epics Marathon
+review/text: Embark on an epic journey through history with this marathon of historical epics. The grand scale, detailed sets, and powerful performances make it a cinematic experience to remember.
+
+product/productId: B008XYZ678
+review/userId: A2R4S6D8F0G2
+review/profileName: LiamCinemaConnoisseur
+review/helpfulness: 11/13
+review/score: 3.9
+review/time: 2934567890
+review/summary: Animated Fantasy Classics
+review/text: Enter the enchanting world of animated fantasy classics with this collection. The whimsical characters, magical adventures, and timeless stories create a perfect escape for all ages.
+
+product/productId: B055LMNOPQ
+review/userId: A1B3C5D7E9F2
+review/profileName: FilmBuffGrace
+review/helpfulness: 10/12
+review/score: 4.3
+review/time: 2956789012
+review/summary: Classic Animation Nostalgia
+review/text: Rediscover the joy of classic animation with this nostalgic collection. The timeless charm, memorable characters, and heartwarming stories will transport you back to your childhood.
+
+product/productId: B005WXYZAB
+review/userId: A2R4T6Y8U0I2
+review/profileName: CinemaEnthusiastZoey
+review/helpfulness: 12/14
+review/score: 4.6
+review/time: 2978901234
+review/summary: 70s Cult Cinema Marathon
+review/text: Immerse yourself in the counterculture with this marathon of 70s cult cinema. The bold storytelling, unique aesthetics, and unconventional narratives make it a journey into the avant-garde.
+
+product/productId: B00LMNO456
+review/userId: A1C3E5G7I9K2
+review/profileName: MasonCinephileJourney
+review/helpfulness: 14/16
+review/score: 4.7
+review/time: 3001234567
+review/summary: Foreign Language Gems
+review/text: Expand your cinematic horizons with this collection of foreign language gems. The rich storytelling and cultural nuances offer a delightful and enlightening viewing experience.
